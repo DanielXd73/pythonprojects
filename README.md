@@ -2,30 +2,18 @@
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-# Script Title
+# Here are some of my projects made in python
 
-Add a jpeg/png/gif file here if applicable
 
-<!--An image is an illustration for your project, the tip here is using your sense of humour as much as you can :D 
-
-You can copy paste my markdown photo insert as following:
-<p align="center">
-<img src="your-source-is-here" width=40% height=40%>
--->
 
 ## 🛠️ Description
-<!--Remove the below lines and add yours -->
-A short description about the script must be mentioned here.
+As a Python newbie, I understand the problems that people face when they first begin studying and attempting to understand various Data Science concepts, particularly Python. This project is designed for folks who are just getting started with Python principles and exploring GitHub as "contributors."
 
-## ⚙️ Languages or Frameworks Used
-<!--Remove the below lines and add yours -->
-Modules required to be able to use the script successfully
-and how to install them.
-(If there are a lot of them, including a `requirements.txt` file will work better.)
+My goal is to build a common playground where everyone, from beginners to experts, can learn and share knowledge, and I hope you enjoy your stay here!
 
-## 🌟 How to run
-<!--Remove the below lines and add yours -->
-Steps on how to run the script along with suitable examples.
+Let's "folk-ing" create amazing things together! 👉
+
+
 
 
 ## 🤖 Author
